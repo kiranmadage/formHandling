@@ -20,13 +20,13 @@ root.render(
      {/* <Increment/> */}
      {/* <Button/> */}
      {/* <Evennum/> <br></br> */}
-     <Butterfly/>
+     {/* <Butterfly/> */}
      {/* <Home/> */}
       {/* <Dmart/> */}
       {/* <About/>/ */}
       {/* <Mcard/> */}
 
-      {/* <Basic/> */}
+      <Basic/>
       {/* <User/> */}
 {/* <Form/> */}
 

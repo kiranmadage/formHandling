@@ -1,0 +1,24 @@
+.maincard{
+    height: 500px;
+    width: 300px;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 50px;
+}
+.text{
+    text-align: center;
+}
+.img{
+    margin: 10px 40px;
+    border-radius: 20px;
+}
+.bg-Shirt{
+    background-color: rgba(105, 162, 195, 0.58);
+}
+.bg-Watch{
+    background-color: rgba(133, 85, 118, 0.395);
+}
+.bg-Boot{
+    background-color: rgba(131, 193, 172, 0.589);
+}
